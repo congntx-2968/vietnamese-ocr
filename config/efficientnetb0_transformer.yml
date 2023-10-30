@@ -1,0 +1,4 @@
+backbone: efficientnet_b0
+cnn:
+    pretrained: true
+    hidden: 256
